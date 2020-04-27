@@ -14,5 +14,5 @@ people.forEach(function(person){
 });
 
 console.log(html);
-//la variable html la estoy asignando a innerHTML
+//las variable html la estoy asignando a innerHTML
 ul.innerHTML = html;
